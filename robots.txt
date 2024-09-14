@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aqvdae.github.io/COD/sitemap.COD.gz
